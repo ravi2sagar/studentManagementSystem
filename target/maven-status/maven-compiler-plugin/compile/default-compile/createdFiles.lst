@@ -1,0 +1,7 @@
+com\mnc\student\model\StudentDetails.class
+com\mnc\student\controller\StudentController.class
+com\mnc\student\StudentManagementApplication.class
+com\mnc\student\dto\StudentDto.class
+com\mnc\student\repository\StudentRepository.class
+com\mnc\student\service\StudentService.class
+com\mnc\student\service\impl\StudentServiceImpl.class
